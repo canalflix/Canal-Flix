@@ -1,0 +1,3047 @@
+﻿1
+00:00:00,702 --> 00:00:03,656
+<i>Eu estou no motel.</i>
+É o seu pai.
+
+2
+00:00:03,657 --> 00:00:05,315
+<i>Eles o encontraram
+em seu quarto.</i>
+
+3
+00:00:06,524 --> 00:00:08,890
+Eles vão te acusar
+de homicídio culposo.
+
+4
+00:00:08,891 --> 00:00:11,079
+A fiança está negada.
+A acusada será enviada
+
+5
+00:00:11,080 --> 00:00:14,096
+à Brockstone
+para aguardar julgamento.
+
+6
+00:00:15,273 --> 00:00:17,320
+Não toque
+nas minhas coisas.
+
+7
+00:00:18,132 --> 00:00:19,832
+Sei que acha
+que tenho parte nisso.
+
+8
+00:00:19,833 --> 00:00:22,209
+Muitas pessoas estavam
+no motel, Shane.
+
+9
+00:00:22,210 --> 00:00:25,101
+Mas muita gente deveria estar
+naquele quarto?
+
+10
+00:00:25,102 --> 00:00:28,405
+É um dos meus melhores, Owen,
+mas preciso tirá-lo desse caso.
+
+11
+00:00:34,882 --> 00:00:37,970
+- Vai aceitar o acordo?
+- Acha que eu deveria?
+
+12
+00:00:37,971 --> 00:00:39,371
+A decisão é sua, Luna.
+
+13
+00:00:39,372 --> 00:00:42,888
+Algo a dizer antes que a Coroa
+considere o acordo?
+
+14
+00:00:42,889 --> 00:00:44,891
+Eu sou inocente.
+
+15
+00:00:53,900 --> 00:00:55,900
+Quando te pergunto
+sobre a cena do crime,
+
+16
+00:00:55,901 --> 00:00:58,840
+pense no corpo, certo?
+No sangue nos lençóis,
+
+17
+00:00:58,841 --> 00:01:00,939
+o posicionamento
+do corpo na cama.
+
+18
+00:01:00,940 --> 00:01:02,790
+Lembre-se de falar
+nos pontos da bala.
+
+19
+00:01:02,791 --> 00:01:05,903
+É mais fácil
+para o júri lembrar, certo?
+
+20
+00:01:05,904 --> 00:01:08,308
+Qual era a relação do acusada
+com a vítima?
+
+21
+00:01:09,609 --> 00:01:11,156
+Ele era o pai da Luna.
+
+22
+00:01:12,296 --> 00:01:15,842
+Não use o nome
+da acusada, certo?
+
+23
+00:01:15,843 --> 00:01:18,958
+Você pode usar "a acusada"
+ou "a ré".
+
+24
+00:01:20,604 --> 00:01:22,059
+Está bem.
+
+25
+00:01:22,060 --> 00:01:25,391
+- Eles eram próximos?
+- Não que eu saiba.
+
+26
+00:01:25,945 --> 00:01:28,428
+Ela só descobriu isso
+no ano passado.
+
+27
+00:01:29,429 --> 00:01:32,999
+A acusada tinha um álibi
+para a noite do assassinato?
+
+28
+00:01:33,000 --> 00:01:35,126
+- Não.
+- Havia marcas no corpo
+
+29
+00:01:35,127 --> 00:01:38,481
+- que indicavam luta?
+- Havia arranhões no braço dela.
+
+30
+00:01:38,482 --> 00:01:41,624
+E o DNA foi encontrado
+sob as unhas da vítima?
+
+31
+00:01:41,925 --> 00:01:43,404
+Sim.
+
+32
+00:01:48,902 --> 00:01:50,433
+Policial Beckbie,
+
+33
+00:01:51,227 --> 00:01:53,868
+Você tem um relacionamento
+pessoal com a acusada?
+
+34
+00:01:55,827 --> 00:01:57,257
+Sim.
+
+35
+00:01:58,967 --> 00:02:02,440
+A mãe dela e eu ficamos juntos
+por quase 5 anos.
+
+36
+00:02:03,039 --> 00:02:06,266
+Fui morar com eles
+quando Luna tinha 4 anos.
+
+37
+00:02:07,527 --> 00:02:09,297
+Você a ama?
+
+38
+00:02:11,987 --> 00:02:13,629
+Sim.
+
+39
+00:02:13,986 --> 00:02:18,940
+Diria que essa jovem raivosa,
+rejeitada pelo próprio pai,
+
+40
+00:02:18,941 --> 00:02:21,564
+sem álibi, teria motivo
+e a oportunidade
+
+41
+00:02:21,565 --> 00:02:22,902
+para matar o David Hanley?
+
+42
+00:02:29,661 --> 00:02:31,195
+Sim.
+
+43
+00:02:36,089 --> 00:02:40,501
+<b>Legenda:
+SilneiS</b>
+
+44
+00:02:42,333 --> 00:02:45,230
+<b>Burden Of Truth - S02E06
+"Manic Street Preacher"</b>
+
+45
+00:03:06,063 --> 00:03:09,927
+EMBALAGEM TEMPORÁRIA
+DAS CINZAS DE DAVID HANLEY
+
+46
+00:03:18,680 --> 00:03:21,673
+Sabe, meu escritório
+também serve para reuniões.
+
+47
+00:03:21,674 --> 00:03:23,974
+Os blocos de concreto
+bloqueiam o sinal do GPS.
+
+48
+00:03:23,975 --> 00:03:27,294
+Se Lovand tentar alguma coisa,
+estarão violando o acordo deles.
+
+49
+00:03:29,209 --> 00:03:31,017
+Ele tem que ir?
+
+50
+00:03:31,809 --> 00:03:35,322
+Tecnicamente? Não.
+Praticamente? Sim.
+
+51
+00:03:35,323 --> 00:03:37,404
+É o governo federal
+e o ato de segurança.
+
+52
+00:03:37,405 --> 00:03:39,578
+Não, é Lovand.
+Este é o próximo jogo deles.
+
+53
+00:03:39,579 --> 00:03:42,304
+Eles só querem falar com você.
+Ainda tem seus direitos.
+
+54
+00:03:42,305 --> 00:03:44,455
+Você pode ir lá,
+se sentar e não dizer nada.
+
+55
+00:03:44,456 --> 00:03:47,105
+- Pode levar um advogado.
+- Então você vai me ajudar?
+
+56
+00:03:47,444 --> 00:03:50,477
+- Não posso.
+- Eu te disse.
+
+57
+00:03:56,372 --> 00:03:59,279
+Minha irmã está sendo julgada
+por assassinato.
+
+58
+00:04:00,084 --> 00:04:02,418
+A seleção do júri
+começa amanhã.
+
+59
+00:04:02,419 --> 00:04:04,614
+Eu não posso aceitar
+nenhum caso novo.
+
+60
+00:04:04,615 --> 00:04:07,161
+Eu não sou exatamente
+um caso novo.
+
+61
+00:04:07,162 --> 00:04:08,688
+Noah, sinto muito.
+
+62
+00:04:10,180 --> 00:04:11,736
+Veja...
+
+63
+00:04:12,422 --> 00:04:14,870
+aqui estão os nomes
+dos advogados em quem confio.
+
+64
+00:04:14,871 --> 00:04:16,836
+São especializados
+nesse tipo de coisa.
+
+65
+00:04:16,837 --> 00:04:18,795
+Ligue para eles,
+vai ficar tudo bem.
+
+66
+00:04:24,137 --> 00:04:26,004
+Preciso atender.
+
+67
+00:04:26,005 --> 00:04:27,853
+Sinto muito.
+
+68
+00:04:30,814 --> 00:04:32,914
+- Pode falar.
+- Acabamos de receber a lista
+
+69
+00:04:32,915 --> 00:04:35,581
+de potenciais jurados.
+Oitenta dos melhores da cidade.
+
+70
+00:04:35,582 --> 00:04:38,682
+Vou ter uma reunião com a chefe
+e estou voltando para Millwood.
+
+71
+00:04:38,683 --> 00:04:40,653
+Tudo bem,
+vou começar sem você.
+
+72
+00:04:40,654 --> 00:04:43,534
+- Por que não chama a Diane?
+- <i>É uma boa ideia.</i>
+
+73
+00:04:43,535 --> 00:04:45,472
+Toda ajuda é bem-vinda.
+
+74
+00:04:45,859 --> 00:04:48,644
+É muita gente para pesquisar
+até às 9h de amanhã.
+
+75
+00:04:48,645 --> 00:04:52,481
+Então é melhor você começar.
+Te vejo logo, Billy.
+
+76
+00:05:06,363 --> 00:05:07,814
+Joanna!
+
+77
+00:05:08,607 --> 00:05:10,043
+Dois, por favor.
+
+78
+00:05:12,395 --> 00:05:14,315
+Pensei que íamos almoçar.
+
+79
+00:05:14,316 --> 00:05:17,524
+Isso é o almoço.
+Obrigada, saúde.
+
+80
+00:05:21,770 --> 00:05:24,997
+Pela situação atual, imaginei
+que precisasse disso.
+
+81
+00:05:24,998 --> 00:05:27,366
+Não é exatamente
+a minha especialidade.
+
+82
+00:05:27,367 --> 00:05:29,668
+Eu sei, mas você precisa
+tentar.
+
+83
+00:05:29,669 --> 00:05:32,130
+Sabia que os advogados
+são 4 vezes mais propensos
+
+84
+00:05:32,131 --> 00:05:34,181
+a se deprimirem
+do que qualquer profissão?
+
+85
+00:05:34,182 --> 00:05:35,624
+Eu não sabia disso.
+
+86
+00:05:35,625 --> 00:05:38,316
+Pensei que isso nos daria
+uma oportunidade mais serena
+
+87
+00:05:38,317 --> 00:05:40,054
+para discutir Cingapura.
+
+88
+00:05:41,215 --> 00:05:44,466
+Aquela expansão
+que eu mencionei?
+
+89
+00:05:44,467 --> 00:05:46,461
+As coisas estão realmente
+esquentando.
+
+90
+00:05:47,450 --> 00:05:49,218
+Essa é uma ótima notícia.
+
+91
+00:05:52,609 --> 00:05:55,799
+Joanna, eu só posso imaginar
+o quão difícil
+
+92
+00:05:55,800 --> 00:05:57,262
+tem sido para você,
+
+93
+00:05:57,263 --> 00:06:00,648
+mas há algumas coisas grandes
+estão para acontecer.
+
+94
+00:06:02,012 --> 00:06:05,120
+Joanna, você é minha estrela
+e eu preciso de você.
+
+95
+00:06:05,867 --> 00:06:08,506
+Nos encontraremos
+com um possível investidor hoje
+
+96
+00:06:08,507 --> 00:06:11,049
+para discutir a tomada
+internacional da empresa
+
+97
+00:06:11,050 --> 00:06:14,020
+e quero que você esteja lá.
+Consegue ir?
+
+98
+00:06:15,738 --> 00:06:18,033
+- Claro, eu estarei lá.
+- Ótimo.
+
+99
+00:06:18,034 --> 00:06:20,126
+E é em Belpisio,
+então, você precisa...
+
+100
+00:06:20,127 --> 00:06:22,223
+se vestir bem
+para impressionar.
+
+101
+00:06:24,574 --> 00:06:27,454
+- Ótimo.
+- Aonde você vai?
+
+102
+00:06:27,958 --> 00:06:30,615
+Vou tentar adiantar alguma coisa
+antes da reunião.
+
+103
+00:06:30,616 --> 00:06:32,848
+Reservei pedicures.
+Sossega, Chang.
+
+104
+00:06:35,232 --> 00:06:36,678
+Está bem.
+
+105
+00:06:39,752 --> 00:06:41,295
+Levante seus pés.
+
+106
+00:06:43,684 --> 00:06:45,141
+Certo.
+
+107
+00:06:52,024 --> 00:06:54,626
+Encontrar bons membros do júri
+não é fácil.
+
+108
+00:06:56,325 --> 00:06:59,381
+- Onde você está?
+- No número 48.
+
+109
+00:07:00,685 --> 00:07:03,245
+- Isso é Brie Cunningham.
+- Você a conhece?
+
+110
+00:07:03,246 --> 00:07:05,217
+Sim, eu a ajudei
+a conseguir um estágio
+
+111
+00:07:05,218 --> 00:07:07,368
+em uma empresa de arquitetura
+no último ano.
+
+112
+00:07:07,369 --> 00:07:10,522
+Ela é brilhante e muito aberta.
+Ela é um "sim" definitivo.
+
+113
+00:07:10,523 --> 00:07:13,623
+- Se conhece Luna, é um "não".
+- Sabe quem você pode perguntar?
+
+114
+00:07:13,624 --> 00:07:15,033
+Taylor Matheson.
+Ela e Brie
+
+115
+00:07:15,034 --> 00:07:17,261
+estava no comitê do anuário
+juntas.
+
+116
+00:07:17,262 --> 00:07:19,394
+Então ela está isenta
+do dever do júri.
+
+117
+00:07:19,850 --> 00:07:21,930
+Amigo de uma testemunha
+da Coroa.
+
+118
+00:07:21,931 --> 00:07:25,200
+Taylor está testificando
+contra a Luna?
+
+119
+00:07:25,853 --> 00:07:28,504
+- Sim.
+- Mas elas são amigas.
+
+120
+00:07:30,101 --> 00:07:32,541
+Eles ameaçaram acusá-la
+de co-conspiradora.
+
+121
+00:07:34,032 --> 00:07:36,878
+Eles querem colocar Luna
+atrás das grades por 25 anos
+
+122
+00:07:36,879 --> 00:07:39,079
+por algo que ela nem fez.
+
+123
+00:07:40,950 --> 00:07:43,183
+Ela é uma criança tão boa,
+Billy.
+
+124
+00:07:43,840 --> 00:07:46,355
+Ela tem um futuro e tanto.
+
+125
+00:07:46,970 --> 00:07:49,272
+Por isso que não podemos deixar
+isso acontecer.
+
+126
+00:07:53,258 --> 00:07:54,988
+<i>É o mesmo em toda a Ásia.</i>
+
+127
+00:07:54,989 --> 00:07:58,530
+- Ninguém quer guerra comercial.
+- Desculpe-me. Joanna Chang.
+
+128
+00:07:59,100 --> 00:08:01,537
+- Tobias Koh.
+- Tobias estava apenas dizendo
+
+129
+00:08:01,538 --> 00:08:04,059
+como a atual situação tarifária
+com outros países
+
+130
+00:08:04,060 --> 00:08:06,060
+está levando
+o investimento internacional
+
+131
+00:08:06,061 --> 00:08:08,411
+- para o Canadá.
+- Então, escritórios canadenses
+
+132
+00:08:08,412 --> 00:08:10,962
+com experiência internacional
+em fusões e aquisições
+
+133
+00:08:10,963 --> 00:08:14,483
+- são muito interessantes.
+- Disseram que vocês são.
+
+134
+00:08:14,484 --> 00:08:17,713
+É por isso que estou falando
+só com vocês fora de Toronto.
+
+135
+00:08:17,714 --> 00:08:20,935
+Na CTS, era meu pão
+e manteiga.
+
+136
+00:08:21,698 --> 00:08:24,061
+Joanna cuidou
+de uma enorme fusão
+
+137
+00:08:24,062 --> 00:08:26,428
+entre uma fábrica canadense
+e taiwanesa.
+
+138
+00:08:26,429 --> 00:08:29,144
+Bem, ela estava na equipe.
+
+139
+00:08:30,198 --> 00:08:31,608
+Uma que também incluiu
+
+140
+00:08:31,609 --> 00:08:34,103
+seu pai muito talentoso,
+devo acrescentar.
+
+141
+00:08:34,697 --> 00:08:37,139
+- Sinto muito pela sua perda.
+- Obrigada.
+
+142
+00:08:37,892 --> 00:08:39,675
+Vai ser difícil de superá-lo.
+
+143
+00:08:42,090 --> 00:08:44,031
+Eu era a advogada
+principal.
+
+144
+00:08:44,626 --> 00:08:46,413
+- Desculpe?
+- Naquela fusão.
+
+145
+00:08:46,414 --> 00:08:50,113
+A empresa canadense
+tinha 19 fábricas de papel.
+
+146
+00:08:50,114 --> 00:08:52,218
+É impressionante,
+mas eu não estou clamando
+
+147
+00:08:52,219 --> 00:08:55,193
+para obter uma parte
+da indústria florestal.
+
+148
+00:08:55,194 --> 00:08:58,560
+Eu entendi, o setor de energia
+do Canadá é uma dádiva.
+
+149
+00:08:58,561 --> 00:09:01,486
+Precisamos capitalizar
+as indústrias mais afetadas
+
+150
+00:09:01,487 --> 00:09:03,705
+pelas tarifas recentes
+sobre bens americanos.
+
+151
+00:09:03,706 --> 00:09:06,591
+A agricultura.
+Uma fusão dessas neste setor
+
+152
+00:09:06,592 --> 00:09:07,992
+te colocaria em uma posição
+
+153
+00:09:07,993 --> 00:09:09,843
+de superar os concorrentes
+americanos.
+
+154
+00:09:09,844 --> 00:09:13,562
+Grandes palavras
+para uma pequena dama.
+
+155
+00:09:19,286 --> 00:09:20,864
+Continue falando.
+
+156
+00:09:27,114 --> 00:09:29,519
+Esta mulher orgulhosamente
+postou no Facebook:
+
+157
+00:09:29,520 --> 00:09:31,843
+"Precisamos abraçar
+os homossexuais.
+
+158
+00:09:31,844 --> 00:09:34,912
+Eles são pecadores,
+mas cabe a Deus puni-los."
+
+159
+00:09:35,257 --> 00:09:36,559
+Desculpe, Sra. Jasper,
+
+160
+00:09:36,560 --> 00:09:38,758
+direto para a pilha
+do "não".
+
+161
+00:09:39,500 --> 00:09:41,604
+Esta lista de jurados
+está demorando.
+
+162
+00:09:42,491 --> 00:09:44,992
+Está ficando tarde.
+Joanna vai chegar logo?
+
+163
+00:09:44,993 --> 00:09:47,726
+Ela ficou enrolada
+com algo do trabalho,
+
+164
+00:09:47,727 --> 00:09:49,678
+mas ela estará aqui
+assim que puder.
+
+165
+00:09:49,679 --> 00:09:51,632
+Eu não sei como ela ainda
+está de pé.
+
+166
+00:09:51,633 --> 00:09:53,049
+Você conhece a Joanna,
+
+167
+00:09:53,050 --> 00:09:55,050
+ela lida com os problemas
+pelo trabalho.
+
+168
+00:09:57,977 --> 00:09:59,501
+Falando no diabo.
+
+169
+00:10:00,538 --> 00:10:02,425
+- Oi.
+- Oi.
+
+170
+00:10:02,426 --> 00:10:04,829
+- Como vai a lista?
+- <i>Estamos...</i>
+
+171
+00:10:04,830 --> 00:10:08,430
+na metade.
+Muitas boas opções até agora.
+
+172
+00:10:08,957 --> 00:10:11,033
+Bom.
+Isso é bom.
+
+173
+00:10:11,602 --> 00:10:14,036
+- Você está bem?
+- <i>Sim.</i>
+
+174
+00:10:14,933 --> 00:10:17,927
+- Eu não sei.
+- Você está cansada.
+
+175
+00:10:17,928 --> 00:10:21,543
+Eu estou além do cansaço.
+Sinto que estou chapada.
+
+176
+00:10:22,250 --> 00:10:24,152
+Como se você soubesse
+como isso é.
+
+177
+00:10:25,918 --> 00:10:27,919
+Eu realmente queria
+estar aí.
+
+178
+00:10:27,920 --> 00:10:31,252
+Você estará aqui em breve
+e nós a cobrimos até lá.
+
+179
+00:10:31,253 --> 00:10:33,570
+Só vou demorar uma hora
+até sair daqui
+
+180
+00:10:33,571 --> 00:10:36,995
+<i>- e vou correndo para Millwood.</i>
+- Eu sei.
+
+181
+00:10:37,745 --> 00:10:39,179
+Agora vai lá e arrebente.
+
+182
+00:10:49,812 --> 00:10:51,339
+Obrigada.
+
+183
+00:10:54,329 --> 00:10:56,077
+Eu estou bem, obrigada.
+
+184
+00:10:59,082 --> 00:11:01,083
+Desculpe, preciso...
+
+185
+00:11:01,084 --> 00:11:04,830
+Frank!
+Que bom que ligou, sim.
+
+186
+00:11:05,203 --> 00:11:08,077
+Você está ganhando ele, Joanna.
+Eu sabia que você o faria.
+
+187
+00:11:08,078 --> 00:11:10,825
+Estamos perto de fechar
+este acordo.
+
+188
+00:11:10,826 --> 00:11:13,428
+Tem algo estranho.
+Eu não confio nele.
+
+189
+00:11:13,429 --> 00:11:16,464
+Você não precisa de intuição
+para confiar em sua assinatura.
+
+190
+00:11:24,574 --> 00:11:27,150
+JÁ ESTÁ NA ESTRADA?
+
+191
+00:11:28,275 --> 00:11:31,426
+- Está tudo bem?
+- Sim.
+
+192
+00:11:31,427 --> 00:11:33,584
+Desculpe por isso.
+
+193
+00:11:35,254 --> 00:11:38,794
+Bem... vamos pedir
+outra garrafa?
+
+194
+00:11:38,795 --> 00:11:41,021
+- Por mim tudo bem.
+- E você?
+
+195
+00:11:41,022 --> 00:11:43,704
+Consegue acompanhar,
+os meninos grandes, Joanna?
+
+196
+00:12:52,702 --> 00:12:54,128
+- Bom dia.
+- Oi.
+
+197
+00:12:54,129 --> 00:12:55,606
+Bom dia, querida.
+
+198
+00:12:57,196 --> 00:12:59,096
+Diane, obrigada ajudar
+com tudo isso.
+
+199
+00:12:59,097 --> 00:13:01,585
+Que isso. Não há nada
+que um conselheiro ame mais
+
+200
+00:13:01,586 --> 00:13:04,896
+- do que mexer com papelada.
+- Como está indo?
+
+201
+00:13:04,897 --> 00:13:06,407
+Bem.
+
+202
+00:13:06,408 --> 00:13:08,661
+Faltam cerca de uma dúzia
+de jurados.
+
+203
+00:13:08,662 --> 00:13:10,412
+Certo, temos pouco mais
+de uma hora.
+
+204
+00:13:10,413 --> 00:13:11,846
+Sim, para chegar lá,
+
+205
+00:13:11,847 --> 00:13:14,086
+se preparar,
+pegar as roupas para a Luna...
+
+206
+00:13:14,972 --> 00:13:16,820
+Desculpe não ter vindo
+ontem à noite.
+
+207
+00:13:16,821 --> 00:13:18,334
+Não precisa explicar.
+
+208
+00:13:20,909 --> 00:13:22,552
+Você devia se preparar.
+
+209
+00:13:36,961 --> 00:13:38,546
+O porta-malas está aberto?
+
+210
+00:13:54,670 --> 00:13:56,339
+Não é esse.
+
+211
+00:13:58,221 --> 00:14:00,521
+EMBALAGEM TEMPORÁRIA
+DAS CINZAS DE DAVID HANLEY
+
+212
+00:14:04,278 --> 00:14:05,772
+SELEÇÃO DO JÚRI HOJE
+
+213
+00:14:12,140 --> 00:14:13,807
+INSCRIÇÃO DO JÚRI
+
+214
+00:14:46,352 --> 00:14:48,920
+Não parece muito diverso,
+não é?
+
+215
+00:15:00,859 --> 00:15:02,409
+Oitenta pessoas
+estavam na lista
+
+216
+00:15:02,410 --> 00:15:04,262
+e vinte delas
+eram indígenas
+
+217
+00:15:04,263 --> 00:15:06,708
+ou pessoas de cor.
+Onde elas estão?
+
+218
+00:15:10,896 --> 00:15:13,407
+Luna não tem direito
+a um júri diversificado?
+
+219
+00:15:13,408 --> 00:15:16,452
+Esse é o objetivo. O termo
+"diversificado" é o problema.
+
+220
+00:15:16,453 --> 00:15:18,716
+A sala do júri
+está cheia de velhos brancos.
+
+221
+00:15:18,717 --> 00:15:20,401
+- Nós sabemos.
+- Estamos de olho.
+
+222
+00:15:20,402 --> 00:15:21,855
+Temos que ir.
+
+223
+00:15:21,856 --> 00:15:23,556
+Estamos levando roupas
+para a Luna.
+
+224
+00:15:23,557 --> 00:15:25,297
+Desculpe, é apenas
+para advogados.
+
+225
+00:16:03,143 --> 00:16:04,830
+Você precisa ir.
+
+226
+00:16:05,897 --> 00:16:07,565
+Te vejo lá em cima, garota.
+
+227
+00:16:13,012 --> 00:16:15,273
+Talvez você ouça
+coisas terríveis lá.
+
+228
+00:16:16,163 --> 00:16:18,318
+Você precisa ficar calma
+
+229
+00:16:18,319 --> 00:16:20,898
+e manter o seu rosto
+completamente neutro.
+
+230
+00:16:21,881 --> 00:16:26,217
+O júri vai examinar e ler
+todas e quaisquer reações,
+
+231
+00:16:26,562 --> 00:16:28,638
+então é melhor
+se você não tiver nenhuma.
+
+232
+00:16:39,303 --> 00:16:41,528
+Para te manter forte.
+
+233
+00:16:46,427 --> 00:16:47,994
+Ótimo.
+
+234
+00:16:49,478 --> 00:16:51,439
+Você parece você mesma
+de novo.
+
+235
+00:17:11,284 --> 00:17:14,525
+Tudo bem. Poderia julgar
+as evidências neste julgamento
+
+236
+00:17:14,526 --> 00:17:17,299
+sem viés ou preconceito
+ou ser de alguma forma afetada
+
+237
+00:17:17,300 --> 00:17:20,138
+pelo fato de que o acusada
+é indígena?
+
+238
+00:17:20,925 --> 00:17:23,566
+Sim, eu posso fazer isso.
+
+239
+00:17:27,257 --> 00:17:29,046
+Nenhum desafio,
+Meritíssimo.
+
+240
+00:17:29,047 --> 00:17:32,561
+- Nenhum desafio, Meritíssimo.
+- Por favor, sente-se ali.
+
+241
+00:17:34,485 --> 00:17:36,788
+- Próximo.
+- Temos a nossa primeira jurada.
+
+242
+00:17:37,193 --> 00:17:38,768
+Próximo, por favor.
+
+243
+00:17:40,052 --> 00:17:42,608
+Oi, estou falando
+com Justin Wabasse?
+
+244
+00:17:42,811 --> 00:17:45,917
+Estou na equipe de defesa
+do julgamento do Luna Spence.
+
+245
+00:17:45,918 --> 00:17:48,111
+Seu nome está na lista
+do júri,
+
+246
+00:17:48,112 --> 00:17:50,350
+mas você não apareceu
+para a selação.
+
+247
+00:17:52,139 --> 00:17:54,673
+Você não recebeu
+uma intimação para aparecer?
+
+248
+00:17:55,515 --> 00:17:58,176
+Certo, e o seu endereço
+é...
+
+249
+00:17:58,177 --> 00:18:01,098
+rua Birch 402, Millwood?
+Certo.
+
+250
+00:18:01,099 --> 00:18:03,752
+Está sendo realizado
+no colégio Millwood.
+
+251
+00:18:05,551 --> 00:18:08,119
+Por favor, diga seu nome,
+profissão e endereço
+
+252
+00:18:08,120 --> 00:18:10,554
+- para o Tribunal.
+- Theodore Denis.
+
+253
+00:18:10,555 --> 00:18:12,785
+Eu tenho um negócio
+de telhados.
+
+254
+00:18:12,786 --> 00:18:16,464
+Eu moro na rua Evangeline,
+número 437.
+
+255
+00:18:16,465 --> 00:18:18,308
+Ele não está
+nas redes sociais.
+
+256
+00:18:18,309 --> 00:18:19,797
+- Nada?
+- Não.
+
+257
+00:18:20,265 --> 00:18:24,060
+Se puder não me chamar
+de Theodore.
+
+258
+00:18:24,061 --> 00:18:26,632
+Eu prefiro ser chamado
+de John.
+
+259
+00:18:27,080 --> 00:18:29,583
+Tudo bem.
+Então será John.
+
+260
+00:18:33,104 --> 00:18:34,991
+PESQUISE POR JOHN DENIS
+
+261
+00:18:55,174 --> 00:18:57,833
+Nenhum desafio,
+Meritíssimo.
+
+262
+00:18:58,369 --> 00:18:59,839
+Srta. Chang?
+
+263
+00:19:03,675 --> 00:19:05,075
+Nenhum desafio,
+Meritíssimo.
+
+264
+00:19:05,076 --> 00:19:07,109
+Muito bom.
+Sente-se, por favor.
+
+265
+00:19:08,153 --> 00:19:10,153
+SEM CHANCE, JOHN É RACISTA
+
+266
+00:19:12,422 --> 00:19:14,026
+Próximo, por favor.
+
+267
+00:19:16,110 --> 00:19:17,845
+Nenhum desafio,
+Meritíssimo.
+
+268
+00:19:19,218 --> 00:19:20,752
+Nenhum desafio,
+Meritíssimo.
+
+269
+00:19:22,746 --> 00:19:24,212
+Nenhum desafio,
+Meritíssimo.
+
+270
+00:19:24,213 --> 00:19:25,664
+Por favor, sente-se.
+
+271
+00:19:27,790 --> 00:19:29,234
+Um desafio, Meritíssimo.
+
+272
+00:19:29,235 --> 00:19:31,856
+Sr. Miller,
+você está dispensado.
+
+273
+00:19:33,509 --> 00:19:35,135
+Próximo, por favor.
+
+274
+00:19:56,592 --> 00:19:58,785
+Por favor, diga seu nome,
+profissão
+
+275
+00:19:58,786 --> 00:20:02,244
+- e endereço para o Tribunal.
+- Justin Wabasse.
+
+276
+00:20:02,245 --> 00:20:06,070
+Eu sou enfermeiro.
+Moro na rua Birch, 402.
+
+277
+00:20:06,986 --> 00:20:08,573
+Um desafio, Meritíssimo.
+
+278
+00:20:08,574 --> 00:20:11,464
+Sr. Wabasse, está dispensado.
+Obrigado.
+
+279
+00:20:12,515 --> 00:20:14,045
+Próximo, por favor.
+
+280
+00:20:16,192 --> 00:20:18,442
+Podemos nos aproximar
+da bancada, Meritíssimo?
+
+281
+00:20:18,443 --> 00:20:20,685
+- Isso pode esperar?
+- Temo que não.
+
+282
+00:20:21,144 --> 00:20:22,724
+Tudo bem, vamos ouvir.
+
+283
+00:20:29,608 --> 00:20:31,917
+Meritíssimo, recebemos a lista
+do júri ontem
+
+284
+00:20:31,918 --> 00:20:33,971
+e os jurados aqui
+são muito diferentes
+
+285
+00:20:33,972 --> 00:20:35,992
+- dos que estava na lista.
+- Como assim?
+
+286
+00:20:35,993 --> 00:20:38,193
+Para começar,
+somente dois terços apareceram.
+
+287
+00:20:38,194 --> 00:20:41,294
+É normal. As pessoas pensam
+que vão se safar se não vierem.
+
+288
+00:20:41,295 --> 00:20:43,957
+Exceto que neste caso,
+foram membros específicos.
+
+289
+00:20:43,958 --> 00:20:45,887
+O que meu parceiro
+está tentando dizer
+
+290
+00:20:45,888 --> 00:20:49,112
+é que quase nenhum
+dos povos indígenas nessa lista
+
+291
+00:20:49,113 --> 00:20:50,952
+recebeu sua carta
+de intimação,
+
+292
+00:20:50,953 --> 00:20:52,953
+incluindo o jurado
+que a Coroa dispensou,
+
+293
+00:20:52,954 --> 00:20:54,354
+o Sr. Justin Wabasse.
+
+294
+00:20:54,355 --> 00:20:56,290
+O que está sugerindo,
+Srta. Chang?
+
+295
+00:20:56,291 --> 00:20:58,387
+Com respeito,
+
+296
+00:20:58,388 --> 00:21:00,238
+acreditamos que houve
+uma adulteração.
+
+297
+00:21:00,239 --> 00:21:03,068
+É uma alegação infundada,
+Meritíssimo.
+
+298
+00:21:03,069 --> 00:21:05,560
+Não merece
+uma séria consideração.
+
+299
+00:21:05,561 --> 00:21:07,534
+Você tem alguma prova?
+
+300
+00:21:07,535 --> 00:21:09,735
+- Não.
+- Ainda não.
+
+301
+00:21:09,736 --> 00:21:12,967
+Pedimos um adiamento
+para analisar o assunto.
+
+302
+00:21:12,968 --> 00:21:14,798
+R Vs. Williams
+deixa muito claro
+
+303
+00:21:14,799 --> 00:21:17,950
+que os réus têm direito
+a um júri de seus pares.
+
+304
+00:21:17,951 --> 00:21:20,801
+Como a minha cliente deveria ter
+um julgamento justo aqui?
+
+305
+00:21:23,423 --> 00:21:26,337
+Srta. Chang,
+Sr. Crawford...
+
+306
+00:21:26,738 --> 00:21:29,668
+posso assegurar-lhes
+que quem entra no meu Tribunal
+
+307
+00:21:29,669 --> 00:21:32,534
+tem direito e recebe
+um julgamento justo.
+
+308
+00:21:32,535 --> 00:21:37,172
+Levo meu dever
+de imparcialidade muito à sério.
+
+309
+00:21:37,217 --> 00:21:38,637
+Pedido negado.
+
+310
+00:21:38,638 --> 00:21:41,633
+A seleção do júri prosseguirá
+conforme planejado.
+
+311
+00:21:51,369 --> 00:21:54,738
+Trinta por cento da população
+de Millwood é indígena,
+
+312
+00:21:54,739 --> 00:21:56,707
+e esta é uma representação
+precisa?
+
+313
+00:21:56,708 --> 00:21:59,486
+Diane está investigando.
+Vamos supor
+
+314
+00:21:59,487 --> 00:22:01,587
+que eles não serão simpáticos
+à Luna ainda.
+
+315
+00:22:01,588 --> 00:22:04,514
+Eu cresci aqui, Billy.
+Houve uma grande diferença
+
+316
+00:22:04,515 --> 00:22:08,252
+entre sentar com minha mãe
+chinesa e meu pai branco.
+
+317
+00:22:08,253 --> 00:22:11,063
+- Isso foi há vinte anos atrás.
+- As pessoas não mudam.
+
+318
+00:22:16,579 --> 00:22:18,995
+Eu não deveria ter ido
+àquele jantar.
+
+319
+00:22:19,957 --> 00:22:22,133
+Os jurados que queríamos
+não apareceram.
+
+320
+00:22:22,528 --> 00:22:25,435
+- Não tivemos como prever isso.
+- Certo, apelamos.
+
+321
+00:22:26,108 --> 00:22:27,680
+Eu não sei.
+
+322
+00:22:27,681 --> 00:22:29,581
+Forçar a barra com o Connors
+não é bom.
+
+323
+00:22:29,582 --> 00:22:32,382
+Vamos para o Supremo Tribunal.
+Luna merece um júri justo.
+
+324
+00:22:32,383 --> 00:22:34,269
+Joanna, isso levaria anos.
+
+325
+00:22:38,629 --> 00:22:40,127
+Alô?
+
+326
+00:22:42,167 --> 00:22:44,744
+Não, eu sinto muito.
+Não me importo.
+
+327
+00:22:47,478 --> 00:22:51,387
+Não faça isso.
+Claro, estou a caminho.
+
+328
+00:22:54,399 --> 00:22:57,756
+- É o meu irmão.
+- Nós estamos tão atrasados.
+
+329
+00:22:59,028 --> 00:23:01,880
+Certo, eu vou com você.
+Trabalhamos no caminho.
+
+330
+00:23:15,514 --> 00:23:17,010
+Owen!
+
+331
+00:23:17,655 --> 00:23:19,556
+Ger, o que você está fazendo
+aqui?
+
+332
+00:23:19,557 --> 00:23:22,329
+- Está tudo bem?
+- Não.
+
+333
+00:23:22,737 --> 00:23:24,828
+Por que você não foi vê-la
+ainda?
+
+334
+00:23:25,376 --> 00:23:29,476
+- Eu não posso. Eu te disse.
+- É um trabalho, Owen.
+
+335
+00:23:29,477 --> 00:23:30,995
+Esta é a Luna.
+
+336
+00:23:30,996 --> 00:23:33,221
+Ela não tem muito,
+mas ela deveria ter você.
+
+337
+00:23:33,222 --> 00:23:35,059
+Eu fui o primeiro na cena.
+
+338
+00:23:35,060 --> 00:23:37,555
+Não posso visitar a ré
+na cadeia.
+
+339
+00:23:37,556 --> 00:23:39,109
+"A ré?"
+
+340
+00:23:41,913 --> 00:23:45,299
+- Não posso fazer nada, Ger.
+- Sim, você pode.
+
+341
+00:23:48,473 --> 00:23:50,412
+Você acha que Luna
+é culpada.
+
+342
+00:23:50,413 --> 00:23:53,606
+- Não, claro que não.
+- Acha sim, posso ver!
+
+343
+00:23:56,027 --> 00:23:58,895
+- Olha, as evidencias...
+- Foda-se as evidências!
+
+344
+00:23:58,896 --> 00:24:01,368
+É da nossa garotinha
+que você está falando.
+
+345
+00:24:02,114 --> 00:24:03,578
+Sinto muito.
+
+346
+00:24:03,852 --> 00:24:05,358
+Eu tenho que ir para casa.
+
+347
+00:24:23,217 --> 00:24:25,218
+Eu disse para não se aproximar
+de mim.
+
+348
+00:24:25,725 --> 00:24:28,568
+<i>Sabe quem eu sou?
+Sabe?</i>
+
+349
+00:24:29,980 --> 00:24:33,603
+<i>Acha que pode falar comigo
+desse jeito?</i>
+
+350
+00:24:33,604 --> 00:24:35,504
+- Eu sou Shane Crawford, cara!
+- Calma.
+
+351
+00:24:35,505 --> 00:24:38,255
+- Sinto muito pelo meu irmão.
+- Eu tenho uma cervejaria!
+
+352
+00:24:38,256 --> 00:24:40,664
+Cara, não mexa comigo!
+
+353
+00:24:43,076 --> 00:24:45,545
+Billy, viu aquele cara?
+Onde ele está?
+
+354
+00:24:45,546 --> 00:24:47,475
+Poderia pagar
+por aqueles caras?
+
+355
+00:24:47,476 --> 00:24:49,045
+- Sim.
+- Billy...
+
+356
+00:24:52,540 --> 00:24:54,341
+Desculpe.
+Para aqueles caras.
+
+357
+00:24:56,138 --> 00:24:59,267
+Eu te amo, Billy.
+Vamos tomar uma.
+
+358
+00:24:59,268 --> 00:25:01,718
+Quero tomar uma com você.
+Vamos tomar uma cerveja.
+
+359
+00:25:01,719 --> 00:25:04,169
+- Quero uma cerveja!
+- Shane, tem cerveja em casa.
+
+360
+00:25:04,170 --> 00:25:07,269
+Olha a gracinha.
+Que bom ver vocês.
+
+361
+00:25:12,337 --> 00:25:13,783
+Cuidado com a cabeça.
+
+362
+00:25:39,913 --> 00:25:41,456
+Melhor prevenir.
+
+363
+00:25:44,737 --> 00:25:46,504
+<i>Tente dormir um pouco.</i>
+
+364
+00:25:49,204 --> 00:25:50,725
+Desculpe por aquilo.
+
+365
+00:25:52,339 --> 00:25:54,440
+Fizemos um bom trabalho
+no caminho.
+
+366
+00:25:55,166 --> 00:25:58,491
+Acho que foi mais
+do que trabalhar.
+
+367
+00:26:02,167 --> 00:26:04,788
+Há quanto tempo
+isso vem acontecendo?
+
+368
+00:26:04,789 --> 00:26:07,326
+Vamos ver,
+quantos anos o Shane tem agora?
+
+369
+00:26:09,008 --> 00:26:11,061
+Às vezes é melhor...
+
+370
+00:26:12,041 --> 00:26:14,464
+às vezes é pior, sabe?
+
+371
+00:26:14,465 --> 00:26:18,050
+Estar perto do assassinato
+deve tê-lo afetado.
+
+372
+00:26:19,361 --> 00:26:21,729
+Ele está lidando com isso
+do jeito Crawford.
+
+373
+00:26:22,427 --> 00:26:23,862
+Falando nisso,
+
+374
+00:26:23,863 --> 00:26:27,077
+vou tomar aquela cerveja
+que você falou. Quer uma?
+
+375
+00:26:27,078 --> 00:26:29,746
+Já estou delirando o suficiente,
+obrigada.
+
+376
+00:26:49,264 --> 00:26:50,973
+Oi, Diane.
+
+377
+00:26:55,137 --> 00:26:56,552
+Certo, obrigada.
+
+378
+00:27:00,683 --> 00:27:02,109
+Nossa jurada, Sra. Shaio,
+
+379
+00:27:02,110 --> 00:27:03,766
+possui uma loja
+de conveniência
+
+380
+00:27:03,767 --> 00:27:06,081
+e, no mês passado,
+foi agredida em um assalto.
+
+381
+00:27:07,308 --> 00:27:09,588
+O assaltante era
+da reserva.
+
+382
+00:27:09,972 --> 00:27:11,391
+Nossa defesa é construída
+
+383
+00:27:11,392 --> 00:27:13,459
+para provar o viés racial
+dos policiais.
+
+384
+00:27:13,460 --> 00:27:15,710
+Desistiram da investigação
+depois de 48 horas,
+
+385
+00:27:15,711 --> 00:27:17,961
+eles não procuraram
+novas pistas, suspeitos...
+
+386
+00:27:17,962 --> 00:27:19,362
+Junto com a Coroa,
+
+387
+00:27:19,363 --> 00:27:21,563
+que está praticamente amarrada
+com um arco...
+
+388
+00:27:21,564 --> 00:27:23,233
+Parecemos um par
+de chorões.
+
+389
+00:27:23,234 --> 00:27:25,103
+Temos que repassar
+tudo de novo.
+
+390
+00:27:25,104 --> 00:27:26,826
+Toda entrevista,
+cada prova...
+
+391
+00:27:26,827 --> 00:27:28,443
+Joanna, já passamos
+pelas provas.
+
+392
+00:27:28,444 --> 00:27:31,065
+- E não foi só uma vez.
+- Perdemos alguma coisa.
+
+393
+00:27:31,066 --> 00:27:33,924
+Então, vamos fazer de novo.
+
+394
+00:27:38,429 --> 00:27:40,574
+Spence, conheça sua nova colega
+de cela.
+
+395
+00:27:40,575 --> 00:27:43,868
+Espero que essa não termine
+em um buraco como a última.
+
+396
+00:27:48,364 --> 00:27:50,378
+Pode ficar com a beliche
+de cima.
+
+397
+00:27:52,211 --> 00:27:54,198
+Eu não pertenço
+a este lugar.
+
+398
+00:27:55,355 --> 00:27:57,533
+Eu nem fiz nada.
+
+399
+00:27:58,594 --> 00:28:00,504
+Foi tudo o meu namorado.
+
+400
+00:28:00,505 --> 00:28:03,892
+Ele era o traficante,
+eu apenas estava com ele.
+
+401
+00:28:09,380 --> 00:28:11,377
+Eu não sei o que fazer.
+
+402
+00:28:12,248 --> 00:28:14,949
+Não há nada a fazer
+senão parar de falar
+
+403
+00:28:14,950 --> 00:28:16,809
+e me deixar dormir
+um pouco.
+
+404
+00:28:22,527 --> 00:28:24,261
+- Esquisito.
+- O quê?
+
+405
+00:28:25,174 --> 00:28:27,297
+Na declaração de Taylor
+à polícia, ela diz
+
+406
+00:28:27,298 --> 00:28:29,135
+que não saiu do quarto
+a noite toda.
+
+407
+00:28:29,995 --> 00:28:32,900
+Não, Shane disse que a viu
+
+408
+00:28:32,901 --> 00:28:35,688
+- quando ele se registrou.
+- Sim, por volta das 21h.
+
+409
+00:28:40,823 --> 00:28:43,700
+Aqui.
+Shane disse:
+
+410
+00:28:43,701 --> 00:28:47,031
+"Vi uma garota no motel.
+Ela parecia bem chateada."
+
+411
+00:28:47,032 --> 00:28:48,517
+Por que Taylor mentiria?
+
+412
+00:28:48,518 --> 00:28:49,949
+Supondo que Shane
+não mentiu,
+
+413
+00:28:49,950 --> 00:28:51,968
+o que pode ter acontecido.
+
+414
+00:28:56,319 --> 00:28:57,815
+O que você está procurando?
+
+415
+00:28:57,816 --> 00:28:59,866
+- Não vimos isso!
+- Shane disse que a viu,
+
+416
+00:28:59,867 --> 00:29:01,417
+mas Taylor nunca saiu
+do quarto.
+
+417
+00:29:01,418 --> 00:29:02,836
+Como não vimos isso?
+
+418
+00:29:03,925 --> 00:29:06,803
+Olhe para eles.
+Eles vão condenar a Luna
+
+419
+00:29:06,804 --> 00:29:08,554
+e ela vai para a prisão
+por 25 anos.
+
+420
+00:29:08,555 --> 00:29:10,405
+Não sabemos disso.
+Faremos o melhor...
+
+421
+00:29:10,406 --> 00:29:12,047
+Não é suficiente!
+
+422
+00:29:35,122 --> 00:29:36,611
+Está tudo bem.
+
+423
+00:29:41,205 --> 00:29:43,941
+Meu pai costumava dizer:
+
+424
+00:29:45,658 --> 00:29:47,558
+"Nunca faça o melhor
+de qualquer coisa.
+
+425
+00:29:47,559 --> 00:29:49,309
+Seja o melhor
+e o resto seguirá."
+
+426
+00:29:49,310 --> 00:29:52,052
+Eu sabia disso
+desde os meus 8 anos.
+
+427
+00:29:52,754 --> 00:29:54,442
+Mas...
+
+428
+00:29:55,687 --> 00:29:57,921
+ele nunca foi o melhor.
+
+429
+00:29:57,925 --> 00:30:00,227
+Pelo menos não da forma
+que importava.
+
+430
+00:30:06,585 --> 00:30:09,870
+- Eu sou igual a ele.
+- Não.
+
+431
+00:30:11,636 --> 00:30:13,085
+Não.
+
+432
+00:30:15,397 --> 00:30:17,408
+Joanna, você não é nada
+parecida com ele.
+
+433
+00:30:21,045 --> 00:30:22,946
+Você é totalmente diferente
+dele.
+
+434
+00:30:43,248 --> 00:30:45,066
+Estou aqui.
+
+435
+00:31:16,896 --> 00:31:19,321
+Aqui é o policial Beckbie
+da polícia de Millwood.
+
+436
+00:31:19,322 --> 00:31:21,843
+Estou continuando
+a pesquisa de ontem.
+
+437
+00:31:21,844 --> 00:31:24,397
+Você conseguiu localizar
+a evidência?
+
+438
+00:31:27,750 --> 00:31:30,264
+Certo, obrigado.
+
+439
+00:31:38,745 --> 00:31:40,765
+Já são 10h.
+
+440
+00:31:44,777 --> 00:31:46,414
+Nós dormimos.
+
+441
+00:31:58,600 --> 00:32:01,606
+<i>Levante-se, Shane.
+Tome um pouco de café.</i>
+
+442
+00:32:07,253 --> 00:32:09,609
+Já peça desculpas
+de antemão ao bartender.
+
+443
+00:32:09,610 --> 00:32:12,444
+Sim, ele me ama.
+Não se preocupe comigo.
+
+444
+00:32:16,100 --> 00:32:17,761
+Eu fiz essa bagunça?
+
+445
+00:32:17,762 --> 00:32:19,728
+- Não.
+- Milagre.
+
+446
+00:32:19,729 --> 00:32:21,529
+Shane, a declaração
+que deu à polícia
+
+447
+00:32:21,530 --> 00:32:24,796
+- não é igual a da Taylor.
+- Eu disse a eles tudo o que vi.
+
+448
+00:32:24,797 --> 00:32:26,297
+Talvez você deva falar
+com ela.
+
+449
+00:32:26,298 --> 00:32:28,398
+Ela disse que ficou no quarto
+a noite toda.
+
+450
+00:32:28,399 --> 00:32:31,065
+- Você disse que a viu.
+- Quem disse isso?
+
+451
+00:32:31,066 --> 00:32:32,466
+Eu nunca disse
+que a vi.
+
+452
+00:32:32,467 --> 00:32:34,577
+Você disse que viu a garota
+
+453
+00:32:34,578 --> 00:32:37,378
+- que estava hospedada no motel.
+- Sim, mas não a Taylor.
+
+454
+00:32:37,379 --> 00:32:39,679
+Era outra garota
+que estava hospedada lá.
+
+455
+00:32:39,680 --> 00:32:41,414
+Descreva-a.
+
+456
+00:32:41,415 --> 00:32:44,907
+- Você disse "garota". Jovem?
+- Não sei, uns 20 anos?
+
+457
+00:32:45,405 --> 00:32:47,585
+Ela estava ficando lá!
+Procurava uma toalha.
+
+458
+00:32:47,586 --> 00:32:49,986
+- Por que não disse isso?
+- Disseram que era ela!
+
+459
+00:32:49,987 --> 00:32:51,455
+Billy.
+
+460
+00:32:51,456 --> 00:32:53,842
+Uma toalha estava faltando
+no quarto do meu pai.
+
+461
+00:32:53,843 --> 00:32:56,243
+- A que horas você a viu?
+- Não sei. Dez, talvez?
+
+462
+00:32:56,244 --> 00:32:58,498
+- Às 22?
+- 21h? Sei lá.
+
+463
+00:32:58,499 --> 00:33:02,797
+- Foi logo depois que entrei.
+- Eles devem ter registrado.
+
+464
+00:33:02,798 --> 00:33:05,298
+É um relato de testemunha ocular
+de outro suspeito.
+
+465
+00:33:05,299 --> 00:33:06,899
+Temos que levar isso
+para a Coroa
+
+466
+00:33:06,900 --> 00:33:08,553
+antes do julgamento
+começar.
+
+467
+00:33:08,554 --> 00:33:10,890
+Seria uma grande confusão
+para a polícia.
+
+468
+00:33:10,891 --> 00:33:15,964
+Eles não confirmaram a declaração
+de uma testemunha ocular.
+
+469
+00:33:15,965 --> 00:33:17,695
+Imagine isso vazando
+para a mídia?
+
+470
+00:33:25,854 --> 00:33:28,307
+- É uma boa hora?
+- Sim, sempre.
+
+471
+00:33:28,680 --> 00:33:31,508
+Quais evidências de DNA
+foram listadas na descoberta?
+
+472
+00:33:31,509 --> 00:33:33,544
+Além do que foi encontrado
+sob as unhas?
+
+473
+00:33:33,545 --> 00:33:36,295
+- Houve mais alguma coisa?
+- Sim, algumas outras coisas,
+
+474
+00:33:36,296 --> 00:33:37,946
+mas todos eles
+eram inconclusivos.
+
+475
+00:33:37,947 --> 00:33:39,742
+Na cena do crime,
+vi a perícia tirar
+
+476
+00:33:39,743 --> 00:33:41,943
+um cabelo comprido da cama.
+Eles o ensacaram.
+
+477
+00:33:41,944 --> 00:33:44,444
+Não pode identificar alguém
+por uma única vertente.
+
+478
+00:33:44,445 --> 00:33:46,925
+Não, mas pode excluir
+alguém.
+
+479
+00:33:47,421 --> 00:33:49,904
+Não tenho acesso ao arquivo
+da Luna, então...
+
+480
+00:33:49,905 --> 00:33:52,767
+- Ninguém pode saber disso.
+- Claro.
+
+481
+00:33:55,590 --> 00:33:58,069
+O cabelo sumiu da evidência.
+
+482
+00:33:58,070 --> 00:34:00,029
+Eu pensei que vocês deveriam
+saber.
+
+483
+00:34:00,946 --> 00:34:03,176
+Owen, sabe quem pegou
+a declaração do Shane
+
+484
+00:34:03,177 --> 00:34:04,577
+na cena do crime?
+
+485
+00:34:04,578 --> 00:34:06,975
+Ele está dizendo
+que há outro suspeito.
+
+486
+00:34:06,976 --> 00:34:08,388
+Eu posso descobrir.
+
+487
+00:34:08,389 --> 00:34:10,948
+Deixe-me levar o Shane
+para esclarecer a declaração.
+
+488
+00:34:11,410 --> 00:34:12,952
+Vou buscá-lo.
+
+489
+00:34:16,013 --> 00:34:17,485
+Shane!
+
+490
+00:34:18,373 --> 00:34:19,843
+Shane?
+
+491
+00:34:20,796 --> 00:34:22,290
+Shane!
+
+492
+00:34:22,825 --> 00:34:24,238
+Shane!
+
+493
+00:34:33,572 --> 00:34:36,406
+Shane!
+
+494
+00:34:37,547 --> 00:34:39,273
+Pare, vamos!
+
+495
+00:34:39,274 --> 00:34:41,259
+Shane, pare!
+
+496
+00:34:41,787 --> 00:34:43,308
+O que está fazendo?
+
+497
+00:34:43,669 --> 00:34:46,169
+- Precisa dar a declaração.
+- Não posso fazer isso.
+
+498
+00:34:46,170 --> 00:34:47,631
+Não posso falar
+com a polícia.
+
+499
+00:34:47,632 --> 00:34:49,824
+Está com problemas
+por alguma coisa?
+
+500
+00:34:50,539 --> 00:34:52,011
+O que você fez?
+
+501
+00:34:52,012 --> 00:34:54,480
+- Você não pode saber.
+- Conte-me.
+
+502
+00:34:55,962 --> 00:34:57,941
+Então vamos dar
+a sua declaração. Vamos.
+
+503
+00:34:57,942 --> 00:35:01,948
+Pare! Não posso falar
+com ninguém, certo?
+
+504
+00:35:01,949 --> 00:35:04,070
+Eles vão descobrir,
+eles virão atrás de mim
+
+505
+00:35:04,071 --> 00:35:06,404
+e dessa vez vão acertar
+o número do quarto.
+
+506
+00:35:06,405 --> 00:35:07,846
+Quem?
+
+507
+00:35:08,255 --> 00:35:09,805
+Shane, a irmã inocente
+da Joanna
+
+508
+00:35:09,806 --> 00:35:11,256
+está presa nesse momento.
+
+509
+00:35:11,257 --> 00:35:12,866
+- Vamos fazer isso agora.
+- Pare!
+
+510
+00:35:12,867 --> 00:35:15,012
+Você não entende, cara.
+
+511
+00:35:15,013 --> 00:35:17,042
+Eu vi algo
+que não deveria ter visto!
+
+512
+00:35:18,407 --> 00:35:21,579
+No motel?
+O que você viu?
+
+513
+00:35:21,580 --> 00:35:23,422
+Todo mundo está errado,
+cara.
+
+514
+00:35:23,423 --> 00:35:26,242
+Sabe como eu sempre fico
+no quarto de número 127?
+
+515
+00:35:26,243 --> 00:35:29,794
+- Eu pedi e estava ocupado.
+- Certo.
+
+516
+00:35:29,795 --> 00:35:32,712
+Pegaram o cara errado.
+Estavam atrás de mim.
+
+517
+00:35:32,713 --> 00:35:34,119
+Quem são "eles"?
+
+518
+00:35:34,120 --> 00:35:35,670
+Todo mundo pensa
+que o banqueiro
+
+519
+00:35:35,671 --> 00:35:37,071
+enforcou-se na ponte,
+
+520
+00:35:37,072 --> 00:35:39,159
+mas eles o sufocaram
+em sua própria cama.
+
+521
+00:35:39,160 --> 00:35:41,253
+Eu os vi encenar isto,
+vi a coisa inteira.
+
+522
+00:35:41,254 --> 00:35:43,904
+- Agora me querem morto.
+- Isso é "O Poderoso Chefão".
+
+523
+00:35:43,905 --> 00:35:46,255
+- Está de brincadeira comigo?
+- Você quer prova?
+
+524
+00:35:46,256 --> 00:35:48,487
+Eu posso te mostrar.
+Vamos lá.
+
+525
+00:35:51,958 --> 00:35:54,913
+Posso tentar acessar
+os resultados do laboratório.
+
+526
+00:35:54,914 --> 00:35:56,596
+Você está indo
+para a delegacia?
+
+527
+00:35:59,268 --> 00:36:01,102
+Ele está com cheiro
+de bebida.
+
+528
+00:36:01,103 --> 00:36:03,615
+Não posso deixar isso afetar
+o julgamento da Coroa.
+
+529
+00:36:03,616 --> 00:36:07,042
+Claro, leve-o pronto,
+preparado e sóbrio
+
+530
+00:36:07,043 --> 00:36:09,407
+e vou marcar uma reunião
+o mais rápido possível.
+
+531
+00:36:09,408 --> 00:36:11,391
+Sim, maravilha.
+
+532
+00:36:17,843 --> 00:36:19,815
+Muito obrigada
+por se encontrar comigo.
+
+533
+00:36:19,816 --> 00:36:21,615
+Temos uma testemunha
+ocular
+
+534
+00:36:21,616 --> 00:36:23,404
+de outro suspeito
+deixando a cena
+
+535
+00:36:23,405 --> 00:36:25,033
+entre 21h e 22h da noite.
+
+536
+00:36:25,034 --> 00:36:26,943
+Então, por que a polícia
+não questionou
+
+537
+00:36:26,944 --> 00:36:28,344
+essa testemunha na cena?
+
+538
+00:36:28,345 --> 00:36:31,227
+Ele foi questionado.
+Foi Shane Crawford.
+
+539
+00:36:32,725 --> 00:36:34,575
+Quando uma testemunha
+muda a história,
+
+540
+00:36:34,576 --> 00:36:37,250
+especialmente semanas
+após o incidente, é duvidoso.
+
+541
+00:36:37,251 --> 00:36:39,088
+A declaração não mudou,
+
+542
+00:36:39,089 --> 00:36:41,321
+ele apenas esclareceu
+o que quis dizer.
+
+543
+00:36:41,322 --> 00:36:43,359
+A polícia fez uma suposição
+incorreta
+
+544
+00:36:43,360 --> 00:36:46,258
+que a mulher que ele viu
+foi a Taylor Matheson.
+
+545
+00:36:46,913 --> 00:36:48,318
+Então está dizendo
+
+546
+00:36:48,319 --> 00:36:49,919
+que temos uma testemunha
+ocular
+
+547
+00:36:49,920 --> 00:36:51,520
+de outro suspeito
+desde o início?
+
+548
+00:36:51,521 --> 00:36:54,646
+Sim, enquanto
+outra jovem mulher indígena
+
+549
+00:36:54,647 --> 00:36:57,285
+permanece em um centro
+de detenção superlotado.
+
+550
+00:37:06,448 --> 00:37:07,999
+Espere.
+
+551
+00:37:18,704 --> 00:37:20,646
+Então, quando o David
+foi morto...
+
+552
+00:37:21,172 --> 00:37:23,972
+e eu percebi a confusão,
+eu estava indo embora da cidade,
+
+553
+00:37:23,973 --> 00:37:25,623
+não contei a ninguém
+para onde ia.
+
+554
+00:37:25,624 --> 00:37:28,939
+Então pensei: Se eu ficar,
+o motel é o último lugar
+
+555
+00:37:28,940 --> 00:37:30,354
+que eles procurariam.
+
+556
+00:37:30,355 --> 00:37:32,305
+Tenho usado o quarto
+como um escritório,
+
+557
+00:37:32,306 --> 00:37:34,256
+como o seu ambiente
+de trabalho em casa.
+
+558
+00:37:45,155 --> 00:37:47,132
+Depois do assassinato,
+eu o localizei.
+
+559
+00:37:48,060 --> 00:37:49,623
+David Hanley
+não foi o primeiro.
+
+560
+00:37:49,624 --> 00:37:51,528
+Está acontecendo
+há meses, cara.
+
+561
+00:37:54,507 --> 00:37:57,343
+Eu sei, é muito
+para processar.
+
+562
+00:37:57,785 --> 00:37:59,214
+Isso é esmagador.
+
+563
+00:37:59,215 --> 00:38:02,379
+Mas eu vou guiá-lo, cara,
+a cada passo do caminho.
+
+564
+00:38:14,558 --> 00:38:15,989
+Está vendo?
+
+565
+00:38:15,990 --> 00:38:18,430
+Mark Johnson era motorista
+e ele mora em Calgary.
+
+566
+00:38:18,431 --> 00:38:20,528
+Eu peguei uma carona
+com outro motorista,
+
+567
+00:38:20,529 --> 00:38:23,133
+mesma rota que Marcos tomaria,
+muitas vezes por ano.
+
+568
+00:38:23,134 --> 00:38:27,669
+- E olhe, ele foi assassinado.
+- Isso é... é loucura.
+
+569
+00:38:27,670 --> 00:38:30,545
+Eu sei, certo?
+Agora, leia isso.
+
+570
+00:38:32,741 --> 00:38:35,797
+Isso aconteceu duas semanas
+depois de eu sair de Deveno.
+
+571
+00:38:35,798 --> 00:38:38,446
+Está vendo?
+Você não acreditou em mim,
+
+572
+00:38:38,447 --> 00:38:40,702
+mas depois de ver
+como tudo se conecta...
+
+573
+00:38:42,320 --> 00:38:45,177
+E pensar, cara,
+que eles quase me pegaram.
+
+574
+00:38:45,178 --> 00:38:47,428
+Eu perguntei na recepção
+naquela noite. Disse:
+
+575
+00:38:47,429 --> 00:38:50,179
+"Quarto 127, por favor".
+Ela disse: "Desculpe, ocupado".
+
+576
+00:38:50,180 --> 00:38:52,906
+E então... David Hanley.
+
+577
+00:38:52,907 --> 00:38:54,387
+Não atenda!
+
+578
+00:38:54,388 --> 00:38:57,488
+Deveria estar desligado, cara.
+Se desconfiarem, virão por você.
+
+579
+00:38:57,489 --> 00:38:59,539
+Só tenho mais algumas peças
+para descobrir
+
+580
+00:38:59,540 --> 00:39:01,740
+e então vamos levar tudo isso
+para a polícia.
+
+581
+00:39:01,741 --> 00:39:03,441
+Eu sabia que a garota
+era inocente.
+
+582
+00:39:03,442 --> 00:39:05,692
+Por isso tenho trabalhado tanto.
+Para tirá-la.
+
+583
+00:39:05,693 --> 00:39:07,243
+Vamos precisar de proteção.
+
+584
+00:39:07,244 --> 00:39:10,012
+Se você delata a máfia,
+não mantém o mesmo nome.
+
+585
+00:39:10,365 --> 00:39:11,865
+Nem me fale.
+
+586
+00:39:12,960 --> 00:39:16,352
+Billy, finalmente.
+Eu falei com a Coroa.
+
+587
+00:39:16,353 --> 00:39:19,239
+Tim está falando
+com o Procurador Geral agora.
+
+588
+00:39:19,240 --> 00:39:21,209
+Por que falou com a Coroa
+sem me avisar?
+
+589
+00:39:21,210 --> 00:39:22,719
+<i>Como assim?
+É uma boa notícia.</i>
+
+590
+00:39:22,720 --> 00:39:25,197
+Tim quer ouvir o Shane
+o mais rápido possível.
+
+591
+00:39:25,198 --> 00:39:27,298
+<i>Quando pode levá-lo
+ao escritório da Coroa?</i>
+
+592
+00:39:27,299 --> 00:39:29,685
+Joanna, acabou de nos ferrar.
+De ferrar a Luna.
+
+593
+00:39:29,686 --> 00:39:32,457
+Billy, esse era o plano
+quando você saiu.
+
+594
+00:39:33,791 --> 00:39:35,480
+Eu não entendo
+o que está errado.
+
+595
+00:39:35,481 --> 00:39:37,340
+Você não entende.
+Shane é...
+
+596
+00:39:38,785 --> 00:39:40,376
+Shane não está bem.
+
+597
+00:39:40,843 --> 00:39:42,412
+Certo.
+
+598
+00:39:43,068 --> 00:39:45,414
+Vamos procurar por um programa
+de reabilitação.
+
+599
+00:39:45,415 --> 00:39:46,872
+Assim que Shane
+testificar...
+
+600
+00:39:46,873 --> 00:39:49,321
+Joanna, ele não está bem.
+
+601
+00:39:50,080 --> 00:39:52,419
+Ele provavelmente inventou
+a coisa toda.
+
+602
+00:39:53,129 --> 00:39:54,685
+<i>Eu tenho que ir.</i>
+
+603
+00:39:57,709 --> 00:39:59,680
+Acabei de falar
+com o Procurador Geral.
+
+604
+00:39:59,681 --> 00:40:02,367
+Eu sei.
+Sinto muito.
+
+605
+00:40:02,368 --> 00:40:05,319
+Sente? Certo.
+Ótimo.
+
+606
+00:40:05,320 --> 00:40:07,544
+Vou ligar de volta
+e dizer
+
+607
+00:40:07,545 --> 00:40:09,773
+que foi apenas
+uma pista falsa.
+
+608
+00:40:11,926 --> 00:40:15,020
+Está desperdiçando o tempo
+do Tribunal. O meu também.
+
+609
+00:40:15,021 --> 00:40:17,874
+É uma falta
+de profissionalismo
+
+610
+00:40:17,875 --> 00:40:19,575
+para não mencionar
+a sua arrogância
+
+611
+00:40:19,576 --> 00:40:21,276
+de pensar que você poderia
+fornecer
+
+612
+00:40:21,277 --> 00:40:24,341
+uma tutela da acusada,
+a sua irmã.
+
+613
+00:40:24,342 --> 00:40:27,089
+A testemunha fornecerá
+um testemunho revisado.
+
+614
+00:40:28,663 --> 00:40:31,608
+Espero que sim.
+Obrigado por isso.
+
+615
+00:40:31,609 --> 00:40:34,296
+E você vai enfrentar
+o Comitê de Ética
+
+616
+00:40:34,297 --> 00:40:38,267
+assim que o júri decidir.
+E eu digo mais:
+
+617
+00:40:39,190 --> 00:40:41,725
+Sua negligência grosseira
+não vai ficar bem
+
+618
+00:40:41,726 --> 00:40:43,764
+ao lado de um veredito
+de culpada.
+
+619
+00:41:14,359 --> 00:41:15,834
+Oi.
+
+620
+00:41:20,621 --> 00:41:22,601
+Sinto muito
+por não visitá-la.
+
+621
+00:41:25,641 --> 00:41:28,766
+O primeiro policial
+na cena do crime
+
+622
+00:41:28,767 --> 00:41:31,554
+precisa testemunhar
+como testemunha da Coroa.
+
+623
+00:41:33,405 --> 00:41:35,229
+Eu sabia que vê-la
+comprometeria
+
+624
+00:41:35,230 --> 00:41:37,858
+a minha capacidade
+de ser objetivo.
+
+625
+00:41:37,859 --> 00:41:40,493
+Eu vejo agora
+que isso foi um erro.
+
+626
+00:41:43,726 --> 00:41:45,168
+Luna...
+
+627
+00:41:46,003 --> 00:41:47,476
+eu prometo...
+
+628
+00:41:48,478 --> 00:41:51,528
+eu farei o que puder
+para te levar para casa.
+
+629
+00:42:06,564 --> 00:42:08,301
+Eu estou...
+
+630
+00:42:09,661 --> 00:42:12,428
+Eu sinto muito.
+
+631
+00:42:17,713 --> 00:42:19,402
+Eu te amo.
+
+632
+00:42:47,684 --> 00:42:49,318
+Sim, esse cara vai para lá.
+
+633
+00:42:50,034 --> 00:42:51,869
+Junto com aquele cara
+bem ali.
+
+634
+00:43:00,344 --> 00:43:02,445
+Com a sua ajuda,
+vai ser muito mais rápido.
+
+635
+00:43:02,446 --> 00:43:05,159
+Estava pensando em você fazer
+um resumo ou algo assim.
+
+636
+00:43:05,160 --> 00:43:07,874
+- Sim, eu poderia fazer isso.
+- Legal.
+
+637
+00:43:14,723 --> 00:43:17,755
+- Cerveja?
+- Ainda estou trabalhando.
+
+638
+00:43:17,756 --> 00:43:19,693
+Parece que está
+amamentando, cara.
+
+639
+00:43:19,694 --> 00:43:22,398
+Acho que alguém está ficando
+um pouco mole.
+
+640
+00:43:26,318 --> 00:43:27,791
+Saúde.
+
+641
+00:43:28,410 --> 00:43:31,273
+Se eu ganhar de novo,
+a taça é minha.
+
+642
+00:43:35,843 --> 00:43:39,934
+<b>Aprenda a legendar!
+@silneisoaress</b>
+
